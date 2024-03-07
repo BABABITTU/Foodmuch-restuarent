@@ -1,0 +1,96 @@
+.custom-nav-link{
+    color: #323f4b;
+    font-family: Roboto;
+}
+.food-much-logo{
+    width: 80px;
+    height: 70px;
+}
+.banner-section-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.banner-heading{
+    color: white;
+    font-family: Roboto;
+    font-size: 45px;
+    font-weight: 300;
+}
+.banner-caption{
+    color: #f5f7fa;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+
+/*food2.html*/
+.explore-menu-section{
+    background-color: white;
+    font-family: Roboto;
+}
+.explore-section-heading{
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.menu-card-title{
+    color: #323f4b;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.menu-item-link{
+    color: #d0b200;
+    font-weight: 500;
+    font-size: 14px;
+}
+.menu-item-image{
+    border-radius: 16px;
+}
+.menu-item-card{
+    border-radius: 16px;
+}
+
+/*food3.css*/
+.section{
+    background-color: #f9fbfe;
+    font-family: roboto;
+}
+.section-img{
+    width: 270px;
+}
+.section-heading{
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+.section-description{
+    color: #5a7184;
+    font-size: 16px;
+}
+.payment-card-img{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.icon{
+    font-size: 30px;
+}
+.icon-container{
+    width: 800px;
+    height: 800px;
+    
+}
+.food-much-logo{
+    width: 80px;
+    height: 70px;
+}
+.footer-section{
+    background-color: #001030;
+    font-family: Roboto;
+    font-weight: 500;
+    color: #f9fbfe;
+    
+}
